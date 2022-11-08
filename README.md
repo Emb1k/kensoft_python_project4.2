@@ -1,1 +1,8 @@
-# python_project04.2
+# KENSoft_Python_project 4.2
+
+В имеющемся словаре найти группы слов, записанных одними и теми же буквами и отличающиеся только их
+порядком, т.е. перестановкой, например, «КОМАР» и «КОРМА»
+
+![screenshot](screenshot1.png)
+
+![screenshot](screenshot2.png)
